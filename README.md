@@ -6,7 +6,7 @@
 3. Change DB credentials `[config/database.php]`
 4. Run `login.php` on your server.
 
-##Files :
+### Files :
 -  `login.php` : An basic login form with AJAX post form data.
 
 -  `dashboard.php` : An homepage where user will get redirected after login.
