@@ -3,7 +3,7 @@
 ### Follow the steps :
 1.  Create MySQL Databse
 2.  Import .SQL file included in folder
-3. Change DB credentials `[app/database.php]`
+3. Change DB credentials `[config/database.php]`
 4. Run `login.php` on your server.
 
 
