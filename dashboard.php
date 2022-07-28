@@ -1,4 +1,7 @@
 <?php
+
+// Paste this code on the pages you want unauthorise entry
+
 if ($user['id'] == null) {
     header("location:login.php");
 } ?>
