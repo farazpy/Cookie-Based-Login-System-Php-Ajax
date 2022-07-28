@@ -20,7 +20,7 @@
         $user = mysqli_fetch_array($search_user_sql);               // Getting selected users data //
         if(password_verify($user_password, $user['password'])) {   //Checking if password is correct //
             $remember_token = $user['remember_token'] ;             //Getting token of user and set cookie //
-            setcookie("remember_token",$remember_token,time() + 10000 ,'/') ; 
+            setcookie("remember_token",$remember_token,time() + 2628288,'/') ;  // Stay login for 1 month
             echo '<div class="alert alert-success">Login Success !</div>' ;
             echo '<meta http-equiv="refresh" content="2,url=dashboard.php" />' ; // Redirecting to Dashboard
         }
