@@ -17,9 +17,9 @@
 
 
 ## Screenshots :
-![Login System Faraz Khan](https://i.instander.in/storage/login_system/IMG_20220728_203557.jpg "Login System Faraz Khan")
+![Login System Faraz Khan](https://lib.instander.in/s3/demos/github/cookie_login_system.jpg "Login System Faraz Khan")
 
-![Login System Faraz Khan](https://i.instander.in/storage/login_system/IMG_20220728_203702.jpg "Login System Faraz Khan")
+![Login System Faraz Khan](https://lib.instander.in/s3/demos/github/cookie_login_system2.jpg "Login System Faraz Khan")
 
 ## Credits :
 - Excella UI
